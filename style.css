@@ -1,0 +1,33 @@
+/* Change the background color of the body to light gray */
+body {
+	background-color: #f0f0f0;
+}
+
+/* Center the heading and change its color to dark gray */
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+/* Add some padding to the list */
+ul {
+	padding: 0 20px;
+}
+
+/* Add a gray border and some margin to each list item */
+li {
+	border: 1px solid #ccc;
+	margin: 10px 0;
+	padding: 10px;
+	background-color: #fff;
+    font-size: 20px;
+}
+
+/* Style the code tags to look like code */
+code {
+	font-family: monospace;
+	font-size: 20px;
+	background-color: #f9f9f9;
+	border: 1px solid #ccc;
+	padding: 2px 5px;
+}
